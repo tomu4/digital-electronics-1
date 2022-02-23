@@ -111,27 +111,13 @@ The K-map for the "equals" function is as follows:
 
 1. Create K-maps for other two functions.
 
-   
-   
-   | :-: | :-: | :-: | :-: | :-: | :-: |
-   |     |     |     | A1  | A0  |     |
-   |     |     | 0 0 | 0 1 | 1 1 | 1 0 |
-   |     | 0 0 |  0  |  0  |  0  |  0  |
-   | B 1 | 0 1 |  1  |  0  |  0  |  0  |
-   | B 0 | 1 1 |  1  |  1  |  0  |  1  |
-   |     | 1 0 |  1  |  1  |  0  |  0  |
-    &nbsp;  &nbsp;  &nbsp;  &nbsp;
-   | :-: | :-: | :-: | :-: | :-: | :-: |
-   |     |     |     | A1  | A0  |     |
-   |     |     | 0 0 | 0 1 | 1 1 | 1 0 |
-   |     | 0 0 |  0  |  1  |  1  |  1  |
-   | B 1 | 0 1 |  0  |  0  |  1  |  1  |
-   | B 0 | 1 1 |  0  |  0  |  0  |  0  |
-   |     | 1 0 |  0  |  0  |  1  |  0  |
+   ![SoP Karnaugh map 4x4](images/karnaugh_greater.png) &nbsp;  &nbsp;  &nbsp;  &nbsp;
+   ![PoS Karnaugh map 4x4](images/karnaugh_smaller.png)
 
 2. Use K-maps to create a simplified SoP form of the "greater than" function and a simplified PoS form of the "less than" function.
 
-   ![Binary comparator simplified functions](images/comparator_min.png)
+   ![Simplified SoP](images/SoP.png)
+    ![Simplified PoS](images/PoS.png)
 
 <a name="part3"></a>
 
