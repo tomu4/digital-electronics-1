@@ -112,7 +112,7 @@ The K-map for the "equals" function is as follows:
 1. Create K-maps for other two functions.
 
    
-   
+   | ** ** | ** ** | ** ** | ** ** | ** ** | ** ** |
    | :-: | :-: | :-: | :-: | :-: | :-: |
    |     |     |     | A1  | A0  |     |
    |     |     | 0 0 | 0 1 | 1 1 | 1 0 |
