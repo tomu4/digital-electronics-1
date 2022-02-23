@@ -34,7 +34,7 @@
         wait for 100 ns;
         -- Expected output
         assert ((s_B_greater_A = '0') and
-                (s_B_equals_A  = '0') and
+                (s_B_equals_A  = '1') and
                 (s_B_less_A    = '1'))
         -- If false, then report an error
         report "Input combination s_b=0011 s_a=0111 FAILED" severity error;
