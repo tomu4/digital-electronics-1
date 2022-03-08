@@ -5,7 +5,7 @@
 The Nexys A7 board provides two four-digit common anode seven-segment LED displays (configured to behave like a single eight-digit display).
 
 1. Draw the schematic with 7-segment displays.
-   ![schematic](images/7digit.jpg)
+   ![schematic](images/7digit.png)
 
 2. Complete the decoder truth table for **common anode** 7-segment display.
 
